@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Payment Confirmation</string>
+    <string name="comfirm">Comfirm</string>
+    <string name="payment_details">Payment Details</string>
+</resources>
